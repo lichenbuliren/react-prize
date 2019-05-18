@@ -2,7 +2,7 @@
 
 ## Demo 地址
 
-<iframe src="https://codesandbox.io/embed/reactprize-8316t?fontsize=14" title="react-prize" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
+[![Edit react-prize](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/reactprize-8316t?fontsize=14)
 
 ## 项目 init
 
